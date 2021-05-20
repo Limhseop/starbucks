@@ -1,0 +1,170 @@
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+#wrapper {
+  text-align: center;
+}
+.join {
+  display: block;
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+  font-weight: nomal;
+}
+.id_pass_form {
+  border: 3px solid black;
+}
+strong {
+  text-align: center;
+}
+.first_section {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  box-sizing: border-box;
+  max-width: 570px;
+  margin: 0 auto 30px;
+  position: relative;
+}
+.second_section {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  box-sizing: border-box;
+  max-width: 570px;
+  margin: 0 auto 30px;
+  position: relative;
+}
+
+.type_green {
+  color: green;
+  margin-bottom: 27px;
+  padding-bottom: 27px;
+}
+
+.check_box input {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  box-sizing: border-box;
+  display: inline-block;
+  /* margin-top: 10px; */
+  max-width: 530px;
+  /* outline: none; */
+  padding: 15px;
+  width: 100%;
+}
+.chenck_box strong {
+  margin-bottom: 10px;
+}
+.check_box {
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  padding: 20px 20px;
+  position: relative;
+}
+section > p {
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+}
+.information {
+  font-size: 18px;
+  text-align: center;
+  color: #777;
+  padding-bottom: 25px;
+}
+.member_sally {
+  text-align: center;
+  margin: 0 auto;
+  width: 205px;
+  height: 182px;
+  padding-top: 33px;
+  padding-bottom: 47px;
+}
+.name_span {
+  text-align: left;
+}
+.birth_select_year {
+  position: relative;
+}
+birth_select_month {
+  position: relative;
+}
+birth_select_day {
+  position: relative;
+}
+.birth_box {
+  position: relative;
+  float: left;
+  display: inline-block;
+}
